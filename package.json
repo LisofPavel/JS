@@ -1,0 +1,26 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Learning epam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisofPavel/JS.git"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "Pavel Lisov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisofPavel/JS/issues"
+  },
+  "homepage": "https://github.com/LisofPavel/JS#readme",
+  "devDependencies": {
+    "fs-extra": "^10.1.0"
+  }
+}
