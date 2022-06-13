@@ -4,7 +4,7 @@
  * method for validating numbers
  * @class NumbersValidator
  */
-export class NumbersValidator {
+class NumbersValidator {
 /**
  * Creates an instance of NumbersValidator.
  * @memberof NumbersValidator
@@ -44,3 +44,4 @@ export class NumbersValidator {
     };
   };
 };
+module.exports = NumbersValidator;
